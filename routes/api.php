@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-/*
+
 Route::group(['namespace' => '\App\Http\Controllers\Api'], function ()
 {
     Route::group(['prefix' => 'items'], function ()
@@ -17,4 +17,4 @@ Route::group(['namespace' => '\App\Http\Controllers\Api'], function ()
         Route::post('/diff', 'RegistryController@diff');
         Route::post('/invert', 'RegistryController@invert');
     });
-}); */
+});
