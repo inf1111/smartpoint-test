@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="38b0ac93-0355-4912-b9a6-6ed67bd65eb8" name="smartpoint" url="https://smartpoint.wowcall.ru">
+        <fileTransfer rootFolder="/var/www/html/smartpoint.wowcall.ru" accessType="SFTP" host="77.223.98.117" port="22" sshConfigId="29b0e43f-8b64-4302-89fa-f1e02458111c" sshConfig="root@77.223.98.117:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

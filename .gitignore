@@ -1,0 +1,7 @@
+/vendor/
+/.env
+/app/Http/Controllers/Api/
+/app/Http/Requests/Api/
+/app/Http/Middleware/Api/
+/app/Rules/Api/
+/tests/Feature/Api/
